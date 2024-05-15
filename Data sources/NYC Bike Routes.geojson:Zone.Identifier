@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.cityofnewyork.us/Transportation/New-York-City-Bike-Routes/7vsa-caz7
+HostUrl=https://data.cityofnewyork.us/api/geospatial/7vsa-caz7?method=export&format=GeoJSON

@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35
+HostUrl=https://data.cityofnewyork.us/api/geospatial/pi5s-9p35?method=export&format=GeoJSON

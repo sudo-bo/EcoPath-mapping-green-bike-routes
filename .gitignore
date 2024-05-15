@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+Traffic_Volume_Counts.csv
+Tree Data.geojson
+Motor_Vehicle_Collisions.csv
+cleaned_motor_vehicle_collisions.csv
+aggregated_traffic_volume_counts.csv
+NYC Bike Routes.geojson
+processed_bike_paths.geojson
+processed_tree_data.geojson
